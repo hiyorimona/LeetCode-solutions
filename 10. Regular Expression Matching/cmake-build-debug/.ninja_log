@@ -1,5 +1,5 @@
 # ninja log v5
-1	430	7389777424484121	CMakeFiles/RegularExpressionMatching.dir/main.cpp.obj	1bcb13cc46e39808
-430	522	7389777425380978	RegularExpressionMatching.exe	76e2d498a419f06a
 3	604	7389781015196682	CMakeFiles/RegularExpressionMatching.dir/main.cpp.obj	6c85fd46c1eb647b
 604	727	7389781016407838	RegularExpressionMatching.exe	76e2d498a419f06a
+3	507	7394602069661153	CMakeFiles/RegularExpressionMatching.dir/main.cpp.obj	6c85fd46c1eb647b
+507	593	7394602070767596	RegularExpressionMatching.exe	76e2d498a419f06a

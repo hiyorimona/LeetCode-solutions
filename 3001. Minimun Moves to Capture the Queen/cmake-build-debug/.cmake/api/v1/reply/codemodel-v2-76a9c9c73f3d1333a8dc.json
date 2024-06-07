@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "3001__Minimun_Moves_to_Capture_the_Queen",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "3001__Minimun_Moves_to_Capture_the_Queen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3001__Minimun_Moves_to_Capture_the_Queen-Debug-9a230d34c0f0dd3fca40.json",
+					"name" : "3001__Minimun_Moves_to_Capture_the_Queen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Simona's repos/LeetCode-solutions/3001. Minimun Moves to Capture the Queen/cmake-build-debug",
+		"source" : "D:/Simona's repos/LeetCode-solutions/3001. Minimun Moves to Capture the Queen"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
